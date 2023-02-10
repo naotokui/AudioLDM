@@ -1,0 +1,4 @@
+cython
+madmom
+pyrubberband
+librosa
